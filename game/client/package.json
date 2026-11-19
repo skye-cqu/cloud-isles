@@ -1,0 +1,33 @@
+{
+  "name": "client",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@babylonjs/addons": "9.33.1",
+    "@babylonjs/core": "9.33.1",
+    "@babylonjs/havok": "1.3.10",
+    "@babylonjs/loaders": "9.33.1",
+    "@babylonjs/materials": "9.33.1",
+    "@manycore/aholo-viewer": "1.12.0",
+    "@recast-navigation/core": "0.44.0",
+    "@recast-navigation/generators": "0.44.0",
+    "fastnoise-lite": "1.1.1",
+    "shared": "*",
+    "yuka": "0.7.8"
+  },
+  "devDependencies": {
+    "@gltf-transform/cli": "^4.1.1",
+    "@types/yuka": "0.7.4",
+    "typescript": "5.9.3",
+    "vite": "6.3.6",
+    "vitest": "3.2.4"
+  }
+}

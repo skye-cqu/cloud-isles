@@ -1,0 +1,5 @@
+[
+  { "id": "roast_mushroom", "name": "烤云菇 ×2", "cost": { "cloudmushroom": 2 }, "out": { "id": "roast_mushroom", "count": 2 } },
+  { "id": "mushroom_soup", "name": "云菇汤", "cost": { "cloudmushroom": 1, "wheat": 1 }, "out": { "id": "mushroom_soup", "count": 1 } },
+  { "id": "steamed_bun", "name": "云麦蒸饼", "cost": { "wheat": 2 }, "out": { "id": "steamed_bun", "count": 1 } }
+]

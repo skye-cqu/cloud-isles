@@ -1,0 +1,40 @@
+{
+  "gen-gen-a92b7465-f6dc-4589-8158-aa043a2c7809.glb": {
+    "file": "gen-gen-a92b7465-f6dc-4589-8158-aa043a2c7809.glb",
+    "taskId": "4722386",
+    "prompt": "一盏可爱的贝壳提灯，贝壳外壳透出温暖的黄色光芒，手绘上色，游戏道具风格",
+    "createdAt": 1793899019000
+  },
+  "gen-create-7818fd28-b22c-4d22-a4e0-a1825fab490a_gen.glb": {
+    "file": "gen-create-7818fd28-b22c-4d22-a4e0-a1825fab490a_gen.glb",
+    "taskId": "4724898",
+    "prompt": "再来一盏贝壳提灯",
+    "createdAt": 1793905712000
+  },
+  "gen-create-11111111-2222-3333-4444-555555555555_gen.glb": {
+    "file": "gen-create-7818fd28-b22c-4d22-a4e0-a1825fab490a_gen.glb",
+    "taskId": "4724898",
+    "prompt": "再来一盏贝壳提灯",
+    "createdAt": 1793905712000
+  },
+  "gen-m4-obs-tower.glb": {
+    "file": "gen-m4-obs-tower.glb",
+    "prompt": "云海主题的木质观测塔，塔顶装有黄铜望远镜和一面小风向旗，手绘上色，游戏建筑道具风格，架空浮岛世界",
+    "createdAt": 1793908243442
+  },
+  "gen-m4-garden-bed.glb": {
+    "file": "gen-m4-garden-bed.glb",
+    "prompt": "圆形木质花园花架，种着发光的蓝色蘑菇和藤蔓植物，云海浮岛园艺风格，手绘上色，游戏道具",
+    "createdAt": 1793908577256
+  },
+  "gen-m4-forge-anvil.glb": {
+    "file": "gen-m4-forge-anvil.glb",
+    "prompt": "奇幻风格的铁砧锻造台，浮石基座上放着铁锤和泛着蓝色光芒的小锻炉，手绘上色，游戏场景道具",
+    "createdAt": 1793908884558
+  },
+  "gen-m4-work-board.glb": {
+    "file": "gen-m4-work-board.glb",
+    "prompt": "木质立式公告板，钉着几张羊皮纸计划表和图钉，侧边挂着一把小锤子，手绘上色，游戏道具风格",
+    "createdAt": 1793909191441
+  }
+}

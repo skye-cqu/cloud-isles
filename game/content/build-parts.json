@@ -1,0 +1,17 @@
+[
+  { "id": "floor", "name": "木地板", "category": "structure", "cost": { "wheat": 0 }, "size": [3, 0.2, 3], "desc": "平整的木平台，组织生活空间的基础。" },
+  { "id": "step", "name": "木台阶", "category": "structure", "cost": { "wheat": 0 }, "size": [1.6, 0.3, 1.6], "desc": "矮台阶，衔接缓坡与平台的高差。" },
+  { "id": "pillar", "name": "木立柱", "category": "structure", "cost": {}, "size": [0.4, 3, 0.4], "desc": "支撑与装饰的立柱。" },
+  { "id": "railing", "name": "木栏杆", "category": "structure", "cost": {}, "size": [3, 1, 0.15], "desc": "平台边缘的护栏。" },
+  { "id": "wall", "name": "木墙", "category": "structure", "cost": {}, "size": [3, 2.6, 0.25], "desc": "隔出室内与庭院的墙板。" },
+  { "id": "chair", "name": "云木座椅", "category": "furniture", "cost": { "wheat": 2 }, "size": [0.7, 1.1, 0.7], "use": "sit", "model": { "file": "lux3d/chair-cloudwood" }, "desc": "可坐下的木艺座椅，居民也会使用。" },
+  { "id": "table", "name": "原木矮桌", "category": "furniture", "cost": { "wheat": 3 }, "size": [1.4, 0.8, 0.9], "use": "none", "desc": "摆放餐食与物件的小桌。" },
+  { "id": "lantern", "name": "青铜云灯", "category": "deco", "cost": { "windcrystal": 1 }, "size": [0.5, 1.6, 0.5], "light": true, "model": { "file": "lux3d/lantern-cloud" }, "desc": "夜晚亮起的云灯，装饰与照明。" },
+  { "id": "planter", "name": "花境盆栽", "category": "deco", "cost": { "wheat": 1 }, "size": [0.8, 0.9, 0.8], "desc": "一小丛开花的盆栽。" },
+  { "id": "stove", "name": "石砌灶台", "category": "facility", "cost": { "floatstone": 2 }, "size": [1.6, 1.2, 1.0], "use": "cook", "desc": "烹饪食物的灶台。" },
+  { "id": "berth_stabilizer", "name": "泊位稳定装置", "category": "facility", "cost": { "floatstone": 3, "windcrystal": 2 }, "size": [2.4, 3.4, 2.4], "unlock": { "quest": "berth_upgrade" }, "model": { "file": "lux3d/stabilizer-berth" }, "desc": "泊位整备的核心装置，需图纸与材料。" },
+  { "id": "obs_tower", "name": "云路观测台", "category": "facility", "cost": { "floatstone": 2, "windcrystal": 1 }, "size": [2.2, 3.2, 2.2], "model": { "file": "generated/gen-m4-obs-tower" }, "desc": "探索分支设施：标记最近未探索海域的方向。" },
+  { "id": "garden_bed", "name": "共生庭院", "category": "facility", "cost": { "wheat": 2, "cloudmushroom": 1 }, "size": [2.4, 0.9, 1.8], "model": { "file": "generated/gen-m4-garden-bed" }, "desc": "生活分支设施：作物成熟更快，宠物爱待的地方。" },
+  { "id": "forge_anvil", "name": "风锻台", "category": "facility", "cost": { "floatstone": 2, "windcrystal": 1 }, "size": [1.8, 1.2, 1.2], "use": "craft", "model": { "file": "generated/gen-m4-forge-anvil" }, "desc": "工艺分支设施：整备武器，解锁蓄力风斩。" },
+  { "id": "work_board", "name": "协作项目板", "category": "facility", "cost": { "wheat": 3 }, "size": [1.6, 2.0, 0.3], "model": { "file": "generated/gen-m4-work-board" }, "desc": "聚落分支设施：查看、暂停与继续持续项目。" }
+]

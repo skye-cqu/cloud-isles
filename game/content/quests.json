@@ -1,0 +1,33 @@
+[
+  {
+    "id": "first_expedition",
+    "name": "第一次远征",
+    "steps": [
+      { "id": "q1", "title": "认识家园", "desc": "与家园的居民聊聊，了解脚下这座小岛。", "done": "talked_npc_first" },
+      { "id": "q2", "title": "整备出发", "desc": "登上云舟，前往风峡岛。", "done": "boarded_ship" },
+      { "id": "q3", "title": "风峡探秘", "desc": "在风峡岛收集 3 枚风晶。", "done": "windcrystal_3" },
+      { "id": "q4", "title": "遗迹之岛", "desc": "前往云间遗迹，找到泊位稳定装置图纸与浮石。", "done": "blueprint_found" },
+      { "id": "q5", "title": "返回家园", "desc": "驾驶云舟回到家园泊位。", "done": "docked_home_after_explore" }
+    ]
+  },
+  {
+    "id": "berth_upgrade",
+    "name": "泊位整备",
+    "steps": [
+      { "id": "b1", "title": "建造灶台", "desc": "在建造目录中选择石砌灶台并放置（需要浮石）。", "done": "built_stove" },
+      { "id": "b2", "title": "布置生活区", "desc": "摆放座椅与云灯，让家园更像家。", "done": "built_furniture_2" },
+      { "id": "b3", "title": "建造稳定装置", "desc": "在泊位旁放置泊位稳定装置（需图纸、浮石×3、风晶×2）。", "done": "built_berth_stabilizer" },
+      { "id": "b4", "title": "家园升级", "desc": "与工匠确认整备，完成泊位升级。", "done": "home_upgraded" }
+    ]
+  },
+  {
+    "id": "first_creation",
+    "name": "筑语初试",
+    "steps": [
+      { "id": "c1", "title": "接受筑语石", "desc": "泊位整备完成后，与岩聊聊，接受筑语石。", "done": "creation_unlocked" },
+      { "id": "c2", "title": "首次语言建设", "desc": "按 C 打开创造面板，用一句话在岛上建成一处新空间。", "done": "created_plan" },
+      { "id": "c3", "title": "生成新物件", "desc": "用语言描述目录里没有的东西，等它成形（生成失败也会得到替代品）。", "done": "novel_item_done" },
+      { "id": "c4", "title": "协作完工", "desc": "请岩帮忙完善新空间（K 授权），并一起用上它。", "done": "npc_built_after_creation" }
+    ]
+  }
+]

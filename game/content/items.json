@@ -1,0 +1,24 @@
+{
+  "windcrystal": { "id": "windcrystal", "name": "风晶", "desc": "峡岛风眼处凝结的晶石，蕴含风流的力量。", "kind": "material" },
+  "floatstone": { "id": "floatstone", "name": "浮石", "desc": "云海遗迹中漂浮的石核，是稳定装置的材料。", "kind": "material" },
+  "cloudmushroom": { "id": "cloudmushroom", "name": "云菇", "desc": "云海边缘生长的柔软菌菇，可以烹饪。", "kind": "material" },
+  "wheat": { "id": "wheat", "name": "云麦", "desc": "家园农田种植的作物。", "kind": "material" },
+  "mushroom_soup": {
+    "id": "mushroom_soup", "name": "云菇汤", "desc": "暖胃的汤，恢复体力与饱食。", "kind": "food",
+    "food": { "hunger": 40, "hp": 15, "staminaBonus": 30, "duration": 120 }
+  },
+  "roast_mushroom": {
+    "id": "roast_mushroom", "name": "烤云菇", "desc": "外焦里嫩，恢复少量体力。", "kind": "food",
+    "food": { "hunger": 25, "hp": 8 }
+  },
+  "steamed_bun": {
+    "id": "steamed_bun", "name": "云麦蒸饼", "desc": "扎实的干粮，远征必备。", "kind": "food",
+    "food": { "hunger": 55, "hp": 10, "staminaBonus": 20, "duration": 180 }
+  },
+  "blueprint_berth": { "id": "blueprint_berth", "name": "泊位稳定装置图纸", "desc": "旧观测站存档中的泊位整备装置设计图。", "kind": "key" },
+  "wisp_essence": { "id": "wisp_essence", "name": "雾灵精华", "desc": "云雾灵消散后留下的精华，工匠感兴趣。", "kind": "material" },
+  "windblade_sword": {
+    "id": "windblade_sword", "name": "风刃长剑", "desc": "剑身流转风流的长剑。", "kind": "weapon",
+    "weapon": { "damage": 34, "range": 3.2, "cooldown": 0.55 }
+  }
+}

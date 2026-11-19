@@ -1,0 +1,64 @@
+{
+  "units": "metres",
+  "anchors": {
+    "version": "home-visual-v3",
+    "spawn": [
+      -53.0,
+      33.947,
+      48.0
+    ],
+    "playerHouse": [
+      -55.0,
+      35.2,
+      61.0
+    ],
+    "yanHouse": [
+      -5.0,
+      33.5,
+      51.0
+    ],
+    "lingHouse": [
+      43.0,
+      29.5,
+      21.0
+    ],
+    "workshop": [
+      -8.0,
+      25.8,
+      10.0
+    ],
+    "plaza": [
+      -17.0,
+      28.2,
+      26.0
+    ],
+    "farm": [
+      48.0,
+      25.5,
+      -3.0
+    ],
+    "ruin": [
+      -103.0,
+      50.165,
+      73.0
+    ],
+    "viewpoint": [
+      -102.0,
+      76.016,
+      106.0
+    ],
+    "dock": [
+      88.0,
+      13.0,
+      -60.0
+    ],
+    "buildZone": {
+      "center": [
+        -17.0,
+        26.0
+      ],
+      "radius": 31.0
+    }
+  },
+  "recipe": "north ridge / south harbour, 1m heightfield"
+}

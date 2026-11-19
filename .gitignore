@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.sqlite
+*.sqlite-*
+*.db
+.env
+.env.*
+_scratch/
+vendor/
+runtime-cache/
+*.log
+.vite/
